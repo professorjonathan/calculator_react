@@ -1,3 +1,8 @@
+Projeto Calculadora, desenvolvido com React, inspirada em calculadora iOS
+
+![image](https://github.com/professorjonathan/calculator_react/assets/115835116/1140f57c-f9df-43da-a14c-ba85f0a241bf)
+![image](https://github.com/professorjonathan/calculator_react/assets/115835116/a19b2a0b-9c45-45e9-b1b2-645e32bfa4d4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
